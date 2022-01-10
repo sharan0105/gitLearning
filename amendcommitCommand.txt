@@ -1,2 +1,4 @@
 This file will be used for learning the git commit --amend command.
-
+//From here, I will be editing the file//
+These are the new changes and I forgot to add them in the last commit ,so as this is just a 
+single line of code, I will be using the git commit --amend command to add these small changes.
