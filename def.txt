@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 def.txt and we do some random stuff and yeh idhar kya ho rha hai kuch smjha do zara bhai aur kya krna hai idhar 
+=======
+def.txt and we do some random stuff and yeh idhar kya ho rha hai kuch smjha do zara bhai bdi mst cheez hai yara
+>>>>>>> foo
 //Adding a random line to def.txt// 
