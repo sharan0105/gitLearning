@@ -1,3 +1,7 @@
 some words of english and these are extra added words and I added this in branch r .
 //Yeh kya harkat hai // 
+<<<<<<< HEAD
 Ab mei kya kru yhi soch rha hu yeh extra line add ki hai maine
+=======
+The text that I have written here has been edited on github and now , I will try and change this file on my local repository.
+>>>>>>> f16b148083913ff7df51bdca586d4ddfb994b899
